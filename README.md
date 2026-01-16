@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IPoolCare_Front
 =======
 # IPoolCare
@@ -85,4 +84,3 @@ OBSERVAÇÕES
 
 Projeto desenvolvido para teste técnico.
 Código organizado, comentado e estruturado para fácil manutenção e evolução.
->>>>>>> f5b639a (Commit inicial)
