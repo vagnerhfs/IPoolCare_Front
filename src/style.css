@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  align-items: center;
+  padding-top: 50px;
+  flex-direction: column;
+}
+
+h1 {
+  color: #fff;
+  font-size: 28px;
+  text-align: center;
+}
+
+
+
+.card {
+  flex-direction: column;
+  padding: 10px;
+  gap: 30px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #2e2d4e;
+  margin: 10px;
+  border-radius: 10px;
+  min-width: 350px;
+  max-width: 600px;
+  
+& p{
+  color: #fff;
+  font-weight: bold;
+  margin-bottom: 0;
+
+  & span {
+    font-weight: normal;
+  }
+  }
+}
