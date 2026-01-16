@@ -48,7 +48,9 @@ A aplicação estará disponível no endereço exibido no terminal.
 ROTAS DA APLICAÇÃO
 
 /         -> Login
+
 /cadastro -> Cadastro de usuário
+
 /home     -> Home (rota protegida)
 
 ----------------------------------------------------------------
